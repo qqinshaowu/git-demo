@@ -8,6 +8,5 @@ hello git!
 hello git!
 hello git!
 hello git!
-hello git!
 hello git! master-test
-hello git!3333333333hot-fix
+hello git! hot-fix
